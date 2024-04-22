@@ -30,7 +30,7 @@ function Home2() {
               <br />
               <br />
     You can usually find me tinkering with <span className="purple">C++</span>,{" "}
-    <span className="purple">JavaScript</span>, and <span className="purple">Go</span>,
+    <span className="purple">JavaScript</span>, and <span className="purple">java</span>,
     crafting cool projects and chasing those "aha" moments.
     <br />
               <br />
