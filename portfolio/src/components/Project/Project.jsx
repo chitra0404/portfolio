@@ -26,8 +26,9 @@ function Projects() {
               isBlog={false}
               title="Habla"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/chitra0404/habla-client"
-              demoLink=""
+              ghfrontLink="https://github.com/chitra0404/habla-client"
+              ghbackLink="https://github.com/chitra0404/habla-server"
+              demoLink="https://habla-client.vercel.app/login"
             />
           </Col>
 
@@ -37,8 +38,9 @@ function Projects() {
               isBlog={false}
               title="Kalvi"
               description="School Management system website is built using reactjs,bootstrap 5,nodejs mongodb. In this website admin can able to add student teacher and mointoring daily activities "
-              ghLink="https://github.com/chitra0404/School-Management-frontend"
-              demoLink=""
+              ghfrontLink="https://github.com/chitra0404/School-Management-frontend"
+              ghbackLink="https://github.com/chitra0404/School-Management"
+              demoLink="https://school-management-frontend-topaz.vercel.app/"
             />
           </Col>
 
@@ -48,8 +50,9 @@ function Projects() {
               isBlog={false}
               title="viniyo"
               description="food delivery website is built using complete Mern Stack with razorpay payment.In this website customer able to order food"
-              ghLink="https://github.com/chitra0404/food-delivery-website"
-              demoLink=""              
+              ghfrontLink="https://github.com/chitra0404/viniyo-fdp-frontend"
+              ghbackLink="https://github.com/chitra0404/viniyo-fdp-backend"
+              demoLink="https://viniyo-fdp-frontend.vercel.app/"              
             />
           </Col>
 
@@ -59,7 +62,8 @@ function Projects() {
               isBlog={false}
               title="crm"
               description="customer management system website used to manage the customer details,product details and staff details."
-              ghLink="https://github.com/chitra0404/crm-frontend"
+              ghfrontLink="https://github.com/chitra0404/crm-frontend"
+              ghbackLink="https://github.com/chitra0404/crm-capstone-backend"
               demoLink="https://crm-frontend-three-beige.vercel.app/"
             />
           </Col>

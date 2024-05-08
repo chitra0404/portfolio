@@ -17,9 +17,8 @@ function AboutCard() {
             pondicherry
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
           </p>
-          <ul>
+          {/* <ul>
             <li className="about-activity">
               <ImPointRight /> Reading Books
             </li>
@@ -29,7 +28,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Linguistic learning
             </li>
-          </ul>
+          </ul> */}
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "No matter what happens, use it as an experience to grow from"{" "}
