@@ -28,7 +28,7 @@ function Projects() {
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghfrontLink="https://github.com/chitra0404/habla-client"
               ghbackLink="https://github.com/chitra0404/habla-server"
-              demoLink="https://habla-client.vercel.app/login"
+              demoLink="https://habla-client.vercel.app"
             />
           </Col>
 
