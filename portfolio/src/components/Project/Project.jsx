@@ -40,7 +40,7 @@ function Projects() {
               description="School Management system website is built using reactjs,bootstrap 5,nodejs mongodb. In this website admin can able to add student teacher and mointoring daily activities "
               ghfrontLink="https://github.com/chitra0404/School-Management-frontend"
               ghbackLink="https://github.com/chitra0404/School-Management"
-              demoLink="https://school-management-frontend-topaz.vercel.app/"
+              demoLink="https://school-management-frontend-eight.vercel.app/"
             />
           </Col>
 
